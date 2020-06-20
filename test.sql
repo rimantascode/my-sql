@@ -1,2 +1,2 @@
-select count(*) from Track;
-select count(*) from Artist;
+use Chinook
+select * from Friends
